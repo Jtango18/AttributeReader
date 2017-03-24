@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeReader", "AttributeReader\AttributeReader.csproj", "{04A134DE-D0A6-44C5-88E6-A27C2EED6EA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeReader.UnitTests", "AttributeReader.UnitTests\AttributeReader.UnitTests.csproj", "{43B1C433-457A-44F8-9183-9195A5A767C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{04A134DE-D0A6-44C5-88E6-A27C2EED6EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04A134DE-D0A6-44C5-88E6-A27C2EED6EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04A134DE-D0A6-44C5-88E6-A27C2EED6EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B1C433-457A-44F8-9183-9195A5A767C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B1C433-457A-44F8-9183-9195A5A767C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B1C433-457A-44F8-9183-9195A5A767C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B1C433-457A-44F8-9183-9195A5A767C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
